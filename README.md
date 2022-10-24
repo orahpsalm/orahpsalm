@@ -42,6 +42,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/orahpsalm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/orahpsalm">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/orahpsalm/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 </div>
 
@@ -58,6 +64,8 @@ Here are some ideas to get you started:
 
 <a href=""><img style="margin: 10px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" height="50" /></a>
+
+<a href=""><img style="margin: 10px" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="Scratch" height="50" /></a>
 <!-- 
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/python.png" alt="Python" height="50" /></a>
 <a href="https://developer.mozilla.org"><img style="margin: 10px" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" height="50" /></a>
@@ -90,6 +98,7 @@ Here are some ideas to get you started:
 <a href=""><img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" />
 <a href=""><img style="margin: 10px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" height="50" />
 <a href=""><img style="margin: 10px" Src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" /></a>
+<a href=""><img style="margin: 10px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" height="50" /></a>
 </div>
 
